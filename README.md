@@ -1,3 +1,3 @@
 # Project: Recipes
 
-This is basic recipe website
+This is a basic recipe website
